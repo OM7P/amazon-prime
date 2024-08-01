@@ -5,8 +5,8 @@ function NewPage() {
   return (
     <div>
       <div className="md:flex">
-        <div className="bg-[url('/Mirzapur-3-poster.webp')] h-96 w-5/12 bg-cover">
-          {/* <Image className="ml-32" src="/Mirzapur-3-poster.webp" width={400} height={100} /> */}
+        <div className="bg-[url('/Mirzapur-3-poster.webp')]  mt-10 h-56 w-96 bg-cover bg-center">
+          {/* <Image className="ml-32" src="/Mirzapur-3-poster.webp" width={400} height={100} /> */}    
           
         </div>
         <div className="flex flex-col justify-center items-center ">
