@@ -15,7 +15,7 @@ function NewComponent() {
             </p>
             <div>
 
-            <button className="text-white bg-[#0F79AF] w-32 p-2 rounded-sm font-bold hover:bg-blue-900">
+            <button className="text-white bg-[#0F79AF] w-32 p-2 rounded-sm font-bold hover:bg-blue-900 break-all">
               Rent now{" "}
             </button>
             </div>
