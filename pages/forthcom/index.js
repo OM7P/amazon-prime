@@ -6,7 +6,7 @@ function ForthCom() {
     <div className="">
       <div className="flex flex-col md:flex-row ">
         <div className=" mt-10 p-4">
-          <h1 className="text-4xl font-semibold mb-10 ">
+          <h1 className="text-4xl font-semibold mb-10 break-all">
             Your favorite channels all in one place
           </h1>
           <p className="text-xl w-full lg:w-96 ">

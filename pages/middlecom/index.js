@@ -8,7 +8,7 @@ function MiddleCom() {
       <div>
         <div className="bg-[url('/MLP.jpg')] h-screen w-full bg-cover bg-">
           <div className=" ml-10  flex  flex-col gap-3">
-            <h1 className="  lg:text-5xl mt-52 text-white text-2xl font-bold">
+            <h1 className="  lg:text-5xl mt-52 text-white text-2xl font-bold break-all">
               Welcome to Prime Video
             </h1>
             <p className="lg:text-xl  text-xs text-white  ">
