@@ -6,7 +6,7 @@ import MiddleCom from "./middlecom";
 import NewComponent from "./newcom";
 import ForthCom from "./forthcom";
 import FooterCom from "./footer";
-import NewIndex from "./new";
+// import NewIndex from "./new";
 
 const inter = Inter({ subsets: ["latin"] });
 

@@ -31,5 +31,3 @@ function MiddleCom() {
 
 export default MiddleCom;
 
-// style={{
-//   backgroundColor: "rgba(1, 2, 4, .8)" }}
